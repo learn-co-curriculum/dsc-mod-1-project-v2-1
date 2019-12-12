@@ -147,7 +147,6 @@ _Reminder: Make sure to also add and commit a pdf of your non-technical presenta
  Hit "I'm done" to wrap it up. You will receive an email in order to schedule your review with your instructor.
 
 ## Grading Rubric
-[NOTE: THIS IS THE OLD RUBRIC, NEEDS TO BE REPLACED]
 
 Online students can find a PDF of the grading rubric for the project [here](https://github.com/learn-co-curriculum/dsc-mod-1-project-v2-1/blob/master/module1_project_rubric.pdf). On-campus students may have different review processes, please speak with your instructor.
 
